@@ -8,11 +8,10 @@ Intro materials
  Ethereum whitepaper
 
 Trading Resources
- coinbase.com
- poloniex.com
- coinmarketcap.com
+ https://coinbase.com
+ https://poloniex.com
+ https://coinmarketcap.com
  https://bitcoinwisdom.com/markets/bitfinex/btcusd
  
 Mining hardware
- Antminer
  https://www.amazon.com/Antminer-S9-16nm-Bitcoin-Miner/dp/B01GFEOV0O
